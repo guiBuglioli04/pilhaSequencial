@@ -38,7 +38,7 @@ public class PilhaInt {
 
     public void esvazie(){
         while (!isEmpty()){
-            System.out.println(pop()+"\t");
+            System.out.print(pop());
         }
 
     }
