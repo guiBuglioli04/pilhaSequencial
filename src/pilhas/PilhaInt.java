@@ -2,7 +2,7 @@ package pilhas;
 
 public class PilhaInt {
 
-    final int N = 8;
+    public final int N = 8;
     int[] dados = new int[N];
     int topo;
 
